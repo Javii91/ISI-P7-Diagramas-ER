@@ -1,0 +1,3 @@
+2.- Habría que eliminar el atributo precio de la relacion Vende que hay entre Farmacia y Medicamento, y añadir el atributo precio a la entidad Medicamento
+
+3.- La relacion Receta estaría unida a una nueva entidad Recetas y ahí alojar los atributos.
